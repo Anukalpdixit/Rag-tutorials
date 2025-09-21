@@ -70,6 +70,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 
 - Hugging Face for open-source tools & inspiration
 - The open-source ML community
+- Agno
 
 ---
 
